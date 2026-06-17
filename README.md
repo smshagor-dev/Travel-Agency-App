@@ -2009,6 +2009,3 @@ export default Dashboard
 </details>
 
 
-<a href="https://jsm.dev/tourvisto-readme" target="_blank">
-  <img src="public/readme/jsmpro.png" alt="Project Banner">
-</a>
